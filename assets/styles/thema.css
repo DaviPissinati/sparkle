@@ -1,0 +1,130 @@
+
+div.container {
+width: 100%;
+max-width: 1280px;
+margin: 0 auto;
+}
+
+header#cabecalho{
+width: 100%;
+height: 800px;
+background-color: #1a1a1a;
+}
+div.row.center{
+padding-top: 286px;
+}
+header#cabecalho h1{
+font-size: 20px;
+letter-spacing: 16px;
+color: #ffffff;
+}
+header#cabecalho p {
+font-size: 13px;
+letter-spacing: 5px;
+color: #ffffff;
+padding-top: 40px;
+padding-bottom: 50px;
+}
+header#cabecalho button.btn.amarelo{
+font-size: 10px;
+letter-spacing: 4px;
+color: #1b1b1b;
+width: 170px;
+height: 45px;
+background-color: #ffe500;
+}
+section.branco-peq{
+width: 100%;
+height: 640px;
+}
+section.branco-peq div.row{
+padding-top: 166px;
+text-align: -webkit-center;
+}
+
+section.branco-peq div.col p{
+padding-top: 92px;
+font-size: 15px;
+letter-spacing: 1px;
+line-height: 32px;
+color: #707070;
+
+}
+
+section.cinza{
+width: 100%;
+height: 930px;
+background-color: #f4f4f4;
+}
+section.cinza div.row{
+text-align: center;
+}
+
+section.cinza h2{
+font-size: 15px;
+letter-spacing: 6px;
+line-height: 24px;
+color: #1b1b1b;
+font-weight: 500;
+font-family: "Raleway";
+text-align: center;
+filter: drop-shadow(0 0 5px rgba(37,39,42,0.1));
+font-weight: bold;
+padding-top: 35px;
+padding-bottom: 41px;
+}
+
+section.cinza p{
+font-size: 15px;
+letter-spacing: 1px;
+line-height: 32px;
+color: #707070;
+font-weight: 400;
+font-family: "Raleway";
+text-align: center;
+}
+
+div.card.larg{
+width: 100%;
+height: 350px;
+padding: 47px 29px 25px;
+}
+section.cinza div.card p{
+font-size: 12px;
+letter-spacing: 1px;
+line-height: 24px;
+filter: drop-shadow(0 0 5px rgba(37,39,42,0.1));
+}
+
+section.cinza div.barra{
+width: 221px;
+height: 5px;
+background-color: #ffe500;
+}
+section.preto-peq{
+width: 100%;
+height: 240px;
+background-color: #1a1a1a;
+}
+
+section.branco-med{
+    width: 100%;
+    height: 1109px;
+}
+
+section.preto-med{
+width: 100%;
+height: 379px;
+background-color: #1a1a1a;
+}
+
+section.branco-gra{
+width: 100%;
+height: 1593px;
+}
+
+footer.preto{
+width: 100%;
+height: 386px;
+background-color: #1a1a1a;
+}
