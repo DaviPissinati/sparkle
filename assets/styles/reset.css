@@ -3,4 +3,9 @@
     margin: 0;
     box-sizing: border-box;
     border: 0;
+    
+}
+
+ul{
+    padding-left: 0;
 }
