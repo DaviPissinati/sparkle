@@ -35,6 +35,9 @@ section.cinza div.card.larg-m{
 width: 100%;
 height: 165px;
 justify-content: center;
+align-items: flex-start;
+padding:0px 5px ;
+margin-bottom: 37px;
 }
 
 /* preto-peq */
@@ -457,15 +460,21 @@ text-align: -webkit-center;
 
 section.cinza{
 width: 100%;
-height: 930px;
+height: auto;
 background-color: #f4f4f4;
 }
 section.cinza div.row{
 text-align: center;
 }
 
-section.cinza div.barra{
-width: 221px;
+section.cinza div.barra-cinza{
+width: 100%;
+height: 5px;
+background-color: #f4f4f4;
+}
+
+section.cinza div.barra-amarela{
+width: 50%;
 height: 5px;
 background-color: #ffe500;
 }
